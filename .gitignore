@@ -1,9 +1,21 @@
+# VSCode
+.vscode/
 
 # Godot-specific ignores
 .import/
 export.cfg
 export_presets.cfg
+Game/Build/
 
 # Mono-specific ignores
 .mono/
 data_*/
+
+# Docker
+*.zip
+
+# DotNet
+appsettings.*.json
+LobbyServer/bin/
+LobbyServer/obj/
+LobbyServer/Properties/launchSettings.json
