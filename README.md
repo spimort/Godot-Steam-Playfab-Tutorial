@@ -18,6 +18,8 @@ dotnet watch run
 # Game client
 You will have to update the port of the lobby server to the one you actually use.
 
+You will also have to update the steam appid of the game client to your actual steam appid.
+
 ***
 
 Enjoy (:
